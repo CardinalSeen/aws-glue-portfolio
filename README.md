@@ -10,6 +10,12 @@ For this post, I am walking through a workshop from the AWS Builders Data Engine
 
 **AWS Glue** is AWS's serverless data integration service that handles everything from data ingestion to aggregated pipelines. As a data engineer, ensuring that data is clean, structured, and reliable is critical for downstream users such as data analysts, data scientists, and other analytics professionals.
 
+### 💰 About Costs & Learning Investment
+
+To keep each article focused and digestible, I selected specific highlights from each lab. Everything covered here can be explored within the AWS Free Tier boundary (with just a tiny note on minor resource costs like EC2 instances, but well worth it for the hands-on practice!).
+
+**Important Note:** The other features such as AWS ETL integration, job runs, and crawlers are not included in the free tier. I included this in my personal bill in order to learn AWS Glue in my way, so that when I apply as a Cloud Data Engineer, I know how to use AWS Glue effectively.
+
 ## 📁 Project Structure
 
 ### Lab 01: Glue Data Catalog
