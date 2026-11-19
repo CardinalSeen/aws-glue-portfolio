@@ -1,31 +1,10 @@
-# Lab 1.1: Working with the Glue Data Catalog - AWS Console
+# Lab 1.1: AWS Console Approach
 
 ## 📚 Overview
 
-Welcome to Lab 1: Working with the AWS Glue Data Catalog!
+This section demonstrates how to create and manage the AWS Glue Data Catalog using the **AWS Management Console**. The console provides an intuitive, visual interface that's perfect for learning the concepts and quick prototyping.
 
-The **AWS Glue Data Catalog** serves as AWS's cloud-native, fully managed version of the Apache Hive Metastore. In contrast, a local Apache Hive Metastore is an open-source tool running on your own environment or Docker setup, functioning as a "librarian" or catalog system that stores crucial metadata - such as table schemas, column data types, and physical file locations.
-
-## 🔄 Localhost vs Cloud: A Comparison
-
-In this session, we distinguish the key operational differences between managing metadata locally versus in the cloud, weighing the pros and cons of both approaches:
-
-### Localhost (Apache Hive Metastore)
-- ✅ Offers complete control and zero cloud operational costs ($0)
-- ✅ Ideal for local development, testing, and isolated sandboxes
-- ❌ Requires manual server maintenance
-- ❌ Complex Docker configurations
-- ❌ Custom scaling as your data footprint grows
-
-### Cloud (AWS Glue Data Catalog)
-- ✅ Operates as a serverless, zero-maintenance service
-- ✅ Seamlessly scales and integrates directly with analytical engines like Amazon Athena, EMR, Redshift, and PySpark
-- ✅ Frees data engineers from infrastructural overhead
-- ❌ Introduces pay-per-request pricing
-
-## 🎯 Learning Objectives
-
-Join me as we discover how data catalogs function under the hood! As a data engineer, understanding how metadata libraries manage and organize underlying data assets is essential for building scalable, production-ready data pipelines.
+For background on AWS Glue Data Catalog and the comparison between localhost and cloud approaches, see the [main Lab 1 README](../README.md).
 
 ## 🖥️ Using AWS Console
 
