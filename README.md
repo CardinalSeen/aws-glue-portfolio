@@ -2,6 +2,14 @@
 
 A comprehensive collection of AWS Glue labs and projects demonstrating data catalog management, ETL transformations, job orchestration, and data quality implementations.
 
+## 🚀 The Core Pipeline & Data Quality
+
+As an applicant for the **AWS Community Builders 2027 cohort** under the Data category, I am excited to share one of my hands-on technical practices using AWS Glue.
+
+For this post, I am walking through a workshop from the AWS Builders Data Engineer track focusing on AWS Glue.
+
+**AWS Glue** is AWS's serverless data integration service that handles everything from data ingestion to aggregated pipelines. As a data engineer, ensuring that data is clean, structured, and reliable is critical for downstream users such as data analysts, data scientists, and other analytics professionals.
+
 ## 📁 Project Structure
 
 ### Lab 01: Glue Data Catalog
