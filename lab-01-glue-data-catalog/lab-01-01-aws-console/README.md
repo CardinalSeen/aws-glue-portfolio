@@ -6,6 +6,8 @@ This section demonstrates how to create and manage the AWS Glue Data Catalog usi
 
 For background on AWS Glue Data Catalog and the comparison between localhost and cloud approaches, see the [main Lab 1 README](../README.md).
 
+> **Note**: Built this AWS Console walkthrough to make getting started with the Glue Data Catalog faster and more approachable, though actual implementation and workflows should always align with the instructions and standards set by your Cloud Data Architect or Senior Data Engineer.
+
 ## 🖥️ Using AWS Console
 
 ### Step 1: Explore the Data Files
