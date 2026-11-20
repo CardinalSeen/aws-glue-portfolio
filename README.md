@@ -203,6 +203,15 @@ I'm always eager to discuss data engineering, AWS Glue, Databricks, and building
 
 **Let's build better data pipelines together!** 🚀
 
+## 📚 Workshop Reference
+
+This portfolio is based on the official AWS Glue Workshop:
+
+**AWS Glue Immersion Day Workshop**  
+🔗 [https://catalog.us-east-1.prod.workshops.aws/workshops/ee59d21b-4cb8-4b3d-a629-24537cf37bb5/en-US](https://catalog.us-east-1.prod.workshops.aws/workshops/ee59d21b-4cb8-4b3d-a629-24537cf37bb5/en-US)
+
+I have completed and documented the core modules from this workshop, adding my own insights, teaching perspectives, and production engineering best practices throughout the implementation.
+
 ## 📝 Portfolio Notes
 
 This portfolio demonstrates hands-on experience with AWS Glue across various use cases and complexity levels, combining technical expertise with a commitment to data quality, cost awareness, and community education.
