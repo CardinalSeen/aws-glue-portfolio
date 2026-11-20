@@ -105,7 +105,9 @@ Next, click the `lab4-vaccine-count-data-extract` node to bring up another Add t
 - **Trigger type**: Select `Event`
 - **Trigger logic**: Select `Start after ALL watched event`
 
-![Add Crawlers Vaccine COVID Case](lab-04-07-add-crawlers-vaccine-covid-case.png)
+![Add Crawlers Vaccine COVID Case](lab-04-07-add-crawlers-vaccine-covid -case.png)
+
+The workflow now shows both parallel extraction paths with their respective event triggers configured.
 
 ### Step 8: Add Vaccine Process Job
 
