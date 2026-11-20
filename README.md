@@ -215,3 +215,6 @@ I have completed and documented the core modules from this workshop, adding my o
 ## 📝 Portfolio Notes
 
 This portfolio demonstrates hands-on experience with AWS Glue across various use cases and complexity levels, combining technical expertise with a commitment to data quality, cost awareness, and community education.
+
+> **💡 Note on Cloud Cost Management (FinOps):** 
+> Because AWS Glue ETL jobs, crawlers, and interactive sessions are billed per DPU-hour outside the AWS Free Tier, all AWS resources in these labs were terminated and cleaned up immediately after validation to prevent ongoing sandbox charges. As a result, this repository archives complete, step-by-step execution screenshots, CLI commands, and generated PySpark scripts as permanent proof of work.
