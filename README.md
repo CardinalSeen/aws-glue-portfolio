@@ -75,6 +75,7 @@ Throughout this AWS Glue workshop, I gained deep insights into building producti
 
 ### Professional Engineering Practices
 - **Fail-Fast Philosophy**: I would rather deal with a failed pipeline that alerts me immediately than let a flawed job run continuously, producing bad data and racking up cloud costs
+- **Pragmatic Data Engineering**: I am a pragmatic data engineer who evaluates the possible outputs based on my decisions and learns from other people's experiences
 - **Cost Optimization**: Proactively reducing worker counts (from 10 to 5), disabling unnecessary features, and monitoring DPU usage to stay within budget
 - **SLA Buffer Strategy**: Setting internal execution targets stricter than business requirements (e.g., 12-minute buffer for 15-minute SLA)
 - **Documentation Discipline**: Every transformation, every quality rule, and every design decision must be documented and justified
@@ -178,6 +179,7 @@ During my time mentoring at the **For The Women (FTW) Foundation**, I served as 
 - **Pragmatic Engineering**: Teaching scholars to make informed decisions about which instructions to follow and which to adapt based on real-world cause-and-effect outcomes
 
 ### What I Taught
+- **Fundamentals of Data Engineering and Data Architecture**: Building strong foundational knowledge in data modeling, pipeline design patterns, and scalable architecture principles
 - **Databricks Workflows**: Helping scholars build and monitor ETL pipelines integrated via VS Code
 - **Data Quality Standards**: Requiring concrete data quality measurements to prove pipelines were production-ready before capstone presentations
 - **Professional Communication**: Training scholars to explain technical decisions to non-technical stakeholders
@@ -195,9 +197,9 @@ As a Support Instructor, I learned that **the best engineers aren't those who kn
 
 I'm always eager to discuss data engineering, AWS Glue, Databricks, and building inclusive tech communities:
 
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile) _(Add your actual LinkedIn)_
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/marc-sandrino-78927b112/)
 - **GitHub**: [View my repositories](https://github.com/CardinalSeen)
-- **Email**: _(Add your professional email)_
+- **Email**: sandrinomarc@gmail.com
 
 **Let's build better data pipelines together!** 🚀
 
